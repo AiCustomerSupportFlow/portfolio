@@ -1,2 +1,50 @@
 # portfolio
-AI developer (Python, OpenAI API). Creating chatbots, automation tools, and business solutions focused on sales, support, and process optimization.
+# 👋 Привет, я Роман
+
+🚀 AI Developer (Python / Automation / Business Solutions)
+
+Я создаю AI-инструменты для бизнеса: чат-боты, автоматизацию процессов и ассистентов, которые помогают увеличивать продажи, снижать нагрузку на поддержку и оптимизировать работу.
+
+## 🔧 Мой стек
+
+* 🐍 Python
+* 🤖 OpenAI API (LLM, AI-ассистенты)
+* ⚡ FastAPI
+* 📩 Telegram Bots (aiogram)
+* 🗄️ SQLite / PostgreSQL
+* 🔍 Работа с данными и автоматизация
+
+## 💼 Что я делаю
+
+* 🤖 AI-боты для продаж и поддержки
+* ⚙️ Автоматизация бизнес-процессов
+* 📊 Генерация и анализ данных
+* 🧠 Интеграция AI в реальные бизнес-задачи
+
+
+## 📂 Мои проекты
+
+🔹 AI Business Assistant (в разработке)
+Ассистент для бизнеса: отвечает клиентам, обрабатывает возражения и помогает продавать
+
+🔹 AI Content Generator
+Генерация описаний товаров, текстов и ответов клиентам
+
+🔹 Data Analyzer
+Анализ CSV-файлов и генерация инсайтов
+
+
+## 📈 Сейчас изучаю
+
+* RAG (работа с базами знаний)
+* Векторные базы данных (FAISS / Chroma)
+* Интеграции с CRM и API сервисов
+
+
+## 📬 Связаться со мной
+
+* Telegram: @RomanchenkoRomanN
+* Email: verapelle.info@gmail.com
+
+
+⭐ Открыт к сотрудничеству и проектам в сфере AI и автоматизации бизнеса
